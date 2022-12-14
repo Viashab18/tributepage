@@ -1,0 +1,30 @@
+body{
+    background-color: #808080;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+    font-size:20px;
+}
+
+head{
+    align-items:center;
+    margin:20px;
+}
+.Section1{
+    text-align:center;
+}
+
+.Section2{
+    text-align:center;
+}
+
+.Section3{
+    text-align:center; 
+    list-style-position: inside;
+}
+.Section4{
+    text-align:center; 
+    list-style-position: inside;
+
+}
+
+
